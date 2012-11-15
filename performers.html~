@@ -1,0 +1,103 @@
+<html>
+<head>
+<title>Harvard China Care 2011 Benefit Dinner and Silent Auction</title>
+<link rel="stylesheet" href="benefit2010.css">
+</head>
+
+<body>
+<div id="container">
+
+<div class="header">
+<div class="subtitle">HARVARD CHINA CARE</div>
+6th Annual Benefit Dinner<br>
+</div>
+
+<div class="subtitle">- 2011 -</div>
+
+
+<div class="navcontainer">
+
+<li><a href="index.html">HOME</a></li>
+<li><a href="about.html">ABOUT</a></li>
+<li><a href="impact.html">IMPACT</a></li>
+<li><a href="auction.html">AUCTION</a></li>
+<li class="navcurrent"><a href="performers.html">PERFORMERS</a></li>
+<li><a href="sponsors.html">SPONSORS</a></li>
+<li><a href="tickets.html">TICKETS</a></li>
+</ul>
+
+</div>
+
+
+<div id="content">
+
+<div class="contentfull">
+<!--<img src="le.jpg" style="float:left; padding-right:15px; padding-bottom:10px">-->
+<div class="heading" align="left"> <i>p</i>erformers</div>
+<br>
+Coming Soon!
+
+<br><br><br>
+
+<!--
+<div class="contentleft">
+
+<div class="heading" align="right"><i>O</i>pal <i>M</i>uannuathong</div>
+<div class="heading" align="right"><br></div>
+<div class="subtitle" align="right">
+designer <br>
+<a href="http://www.freshob.com/" target="new"> FRESHOB website </a>
+</div>
+Opal Muannuathong makes up one half of the duo behind FRESHOB. Drawing inspiration from some of the hottest fashions from 
+the United States and Asia, Opal seeks to deliver a fashion experience unparalleled in class and originality. Opal's love 
+of fashion and creativity drives her to produce avant-garde items that represent the dual identity that she feels as an 
+Asian-born American. Blending inspirations from her Thai background with Western modern fashion trends, Opal produces 
+eclectic fashion designs taht reflect the incessant balance between West and East, traditional and avant-garde. 
+</div>
+
+
+<div class="contentright">
+
+<div class="heading" align="right"><i>A</i>sian <i>A</i>merican <i>D</i>ance <i>T</i>roupe</div>
+<div class="subtitle" align="right">
+dance troupe <br>
+<a href="http://www.hcs.harvard.edu/~aadt/" target="new"> website </a>
+</div>
+
+The Asian American Dance Troupe (AADT) seeks to spread an appreciation and awareness of Asian culture on Harvard's campus 
+thorugh the medium of dance. They will be performing two ethnic dances, the <i>Dai</i> dance and the Yellow Fan dance. The 
+<i>Dai</i> dance expresses the dancers' youth and innocence, and represents the beauty of maturity. The technique lies 
+heavily in the specific control of body angles, including the specific angle of the wrist, elbow, and even every finger 
+joint. This technique becomes especially noticeable in another unique style of <i>Dai</i> dance, the peacock dance style. 
+The <b>Yellow Fan Dance</b>... We hope you enjoy tonight's performances.
+</div>
+
+-->
+<div class="footer">
+<div class="bottomleft">
+
+<div class="subheading"><b>Interested in attending our benefit dinner?</b></div><br>
+
+Please see <a href="tickets.html">here</a> for ticket information
+and pricing.
+</div>
+
+<div class="bottomright"> 
+<img src="logo_child.png" style="float: left; padding-right:20px;">
+<div class="subheading"><b>Our Mailing Address:</b></div>
+
+HARVARD CHINA CARE<br>
+C/O MAXWELL MEYER, PRESIDENT<br>
+59 SHEPARD STREET, BOX #109<br>
+CAMBRIDGE, MA 02138<br>
+USA
+<br>
+<br> or contact us by email at <a href="mailto:care@hcs.harvard.edu">care@hcs.harvard.edu</a>
+</div>
+</div>
+
+</div>
+Harvard China Care | saving lives, one child at a time
+<br>
+
+</body>

@@ -1,0 +1,67 @@
+<html>
+<head>
+<title>Harvard China Care 2012 Benefit Dinner and Silent Auction</title>
+<link rel="stylesheet" href="benefit2010index.css">
+<script type="text/javascript" src="be_slide.js"></script></head>
+
+<body>
+<div id="container">
+
+<div class="header">
+<div class="subtitle">HARVARD CHINA CARE</div>
+7th Annual Benefit Dinner<br>
+</div>
+
+<div class="subtitle">- 2012 -</div>
+
+
+<div class="navcontainer">
+
+<li class="navcurrent"><a href="index.html">HOME</a></li>
+<li><a href="about.html">ABOUT</a></li>
+<li><a href="impact.html">IMPACT</a></li>
+<li><a href="auction.html">AUCTION</a></li>
+<li><a href="performers.html">PERFORMERS</a></li>
+<li><a href="sponsors.html">SPONSORS</a></li>
+<li><a href="tickets.html">TICKETS</a></li>
+</ul>
+
+</div>
+
+
+<div id="content">
+
+<div id="slideshow">
+<img src="pics/benefit.jpg">
+</div>
+</div>
+
+
+<div class="footer">
+<div class="bottomleft">
+
+<div class="subheading"><b>Interested in attending our benefit dinner?</b></div><br>
+
+Please see <a href="tickets.html">here</a> for ticket information
+and pricing.
+</div>
+
+<div class="bottomright"> 
+<img src="logo_child.png" style="float: left; padding-right:20px;">
+<div class="subheading"><b>Our Mailing Address:</b></div>
+
+HARVARD CHINA CARE<br>
+C/O MAXWELL MEYER, PRESIDENT<br>
+59 SHEPARD STREET, BOX #109<br>
+CAMBRIDGE, MA 02138<br>
+USA
+<br>
+<br> or contact us by email at <a href="mailto:care@hcs.harvard.edu">care@hcs.harvard.edu</a>
+</div>
+</div>
+
+</div>
+Harvard China Care | saving lives, one child at a time
+<br>
+
+</body>
